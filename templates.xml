@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DbVisualizer>
+  <Templates>
+    <ImmediateSubstitution>true</ImmediateSubstitution>
+    <Template shortcut=".encode">
+      <Description />
+      <Text xml:space="preserve"><![CDATA[SELECT DESIGN_DESIGNER_PROJECTION_ENCODINGS('proj', '');]]></Text>
+    </Template>
+    <Hidden shortcut=".sf" />
+    <Hidden shortcut=".sc" />
+    <Hidden shortcut=".df" />
+    <Hidden shortcut=".ii" />
+    <Hidden shortcut=".date" />
+    <Hidden shortcut=".fdate" />
+    <Hidden shortcut=".ts" />
+    <Hidden shortcut=".time" />
+    <Hidden shortcut=".exc" />
+    <Hidden shortcut=".exs" />
+    <Hidden shortcut=".exh" />
+    <Hidden shortcut=".exxls" />
+    <Hidden shortcut=".(c)" />
+    <Hidden shortcut=".(tm)" />
+  </Templates>
+</DbVisualizer>
