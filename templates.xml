@@ -2,6 +2,10 @@
 <DbVisualizer>
   <Templates>
     <ImmediateSubstitution>true</ImmediateSubstitution>
+    <Template shortcut=".export">
+      <Description />
+      <Text xml:space="preserve"><![CDATA[SELECT EXPORT_OBJECTS('', 'table');]]></Text>
+    </Template>
     <Template shortcut=".encode">
       <Description />
       <Text xml:space="preserve"><![CDATA[SELECT DESIGN_DESIGNER_PROJECTION_ENCODINGS('proj', '');]]></Text>
